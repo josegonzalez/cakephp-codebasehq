@@ -1,7 +1,7 @@
 <?php
 class CodebaseShell extends Shell {
 /**
- * undocumented function
+ * Calculates Time for the repository this shell is run in and prints to screen
  *
  * @return void
  * @access public
@@ -45,7 +45,7 @@ class CodebaseShell extends Shell {
 	}
 
 /**
- * undocumented function
+ * Displays help contents
  *
  * @return void
  * @access public
